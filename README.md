@@ -9,6 +9,7 @@ Objective: Prevent to data loss, auto shutdown computer if power supply failure
 ``
 MINUTES = ...
 ``
+
 ##Run
 
 python3 checkConnectivity.py 
